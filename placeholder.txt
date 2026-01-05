@@ -1,0 +1,28 @@
+This folder contains project images.
+
+To add your project images:
+1. Replace the placeholder images with your actual project screenshots
+2. Recommended image size: 800x600px or similar aspect ratio
+3. Supported formats: JPG, PNG, WebP
+4. File names: project1.jpg, project2.jpg, project3.jpg
+
+For ML projects, consider using:
+- Model performance charts
+- Data visualizations
+- Screenshots of your application
+- Confusion matrices
+- Training progress plots
+
+IMPORTANT: Add the following images to this folder:
+
+1. project1.jpg - Main image for Project One
+2. project2.jpg - Main image for Project Two  
+3. project3.jpg - Main image for Project Three
+
+You can use any placeholder images for now, or add your actual project screenshots.
+
+For testing, you can use placeholder image services like:
+- https://picsum.photos/400/300
+- https://via.placeholder.com/400x300
+
+Or add your actual project screenshots here. 
